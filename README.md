@@ -6,4 +6,4 @@ I love exploring datasets, building predictive models, and deriving insights fro
 Here you'll find my projects in Machine Learning, Data Analytics, and Astronomy Data Analysis.  
 
 📫 **Reach me at:** archipgohel25@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/apgohel](www.linkedin.com/in/archi-p-gohel-030047272)
+💼 **LinkedIn:** [www.linkedin.com/in/archi-p-gohel-030047272](www.linkedin.com/in/archi-p-gohel-030047272)
